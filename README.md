@@ -31,4 +31,3 @@ This project implements an 8-bit asynchronous memory system using Verilog, along
 
 The testbench simulates writing `0xAB` to address `0x10`, then reads back and displays the result.
 
-Example output:
